@@ -1,0 +1,2 @@
+Enter String to reverse: Text Entered is : Acadgild
+Reverse String is : dligdacA
